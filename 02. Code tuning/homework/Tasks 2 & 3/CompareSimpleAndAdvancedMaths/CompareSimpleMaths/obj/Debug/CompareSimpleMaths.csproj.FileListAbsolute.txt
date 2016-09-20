@@ -1,0 +1,6 @@
+D:\Telerik\кпк 2\High-Quality-Code---Part-2\02. Code tuning\homework\Tasks 2 & 3\CompareSimpleAndAdvancedMaths\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe.config
+D:\Telerik\кпк 2\High-Quality-Code---Part-2\02. Code tuning\homework\Tasks 2 & 3\CompareSimpleAndAdvancedMaths\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe
+D:\Telerik\кпк 2\High-Quality-Code---Part-2\02. Code tuning\homework\Tasks 2 & 3\CompareSimpleAndAdvancedMaths\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.pdb
+D:\Telerik\кпк 2\High-Quality-Code---Part-2\02. Code tuning\homework\Tasks 2 & 3\CompareSimpleAndAdvancedMaths\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.csprojResolveAssemblyReference.cache
+D:\Telerik\кпк 2\High-Quality-Code---Part-2\02. Code tuning\homework\Tasks 2 & 3\CompareSimpleAndAdvancedMaths\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.exe
+D:\Telerik\кпк 2\High-Quality-Code---Part-2\02. Code tuning\homework\Tasks 2 & 3\CompareSimpleAndAdvancedMaths\CompareSimpleMaths\obj\Debug\CompareSimpleMaths.pdb
